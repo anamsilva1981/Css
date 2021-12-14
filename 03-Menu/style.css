@@ -1,0 +1,36 @@
+body{
+    background-color: aquamarine;
+    color: lightblue;
+}
+
+ul{
+    background-color: lightseagreen;
+    padding: 20px 40px;
+    list-style: none;
+}
+
+ul li{
+    display: inline; /*Todas na mesma linha*/
+}
+
+ul li a:link{
+    text-decoration: none; /*Remove o sublinhado do nome*/
+    color: #334d5c; /* Define cor da borda*/ 
+    background-color: crimson; /*Define cor ao redor do texto*/
+    padding: 5px; /* Espaçamento da caixa do link*/
+}
+
+/*Alterar a cor quando passar o mouse*/
+ul li a:hover{
+    color: darkgreen;
+}
+
+/*Alterar a cor quando selecionado*/
+ul li a:active{
+    color: darkslateblue;
+}
+
+/*Altera a cor quando visitado*/
+ul li a:visited{
+    color: white;
+}
