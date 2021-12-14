@@ -1,0 +1,33 @@
+body{
+    background-color: aquamarine;
+    color: brown;
+}
+
+h1{
+    color: brown;
+}
+
+p{
+    color: rgb(121, 129, 8);
+}
+
+p span{
+    color: rgb(12, 10, 1);
+}
+a:hover{
+    color: darkorchid;
+}
+
+a:hover:active{
+    color: darkred;
+}
+
+#cabecalho{
+    font-size: 20px;
+    color: midnightblue;
+}
+
+.classes{
+    color: navy;
+    font-size: 20px;
+}
