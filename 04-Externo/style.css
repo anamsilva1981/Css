@@ -1,0 +1,17 @@
+body{
+    background-color: burlywood;
+}
+
+h1{
+    background-color: aquamarine;
+    color: blue;
+}
+
+p{
+    font-size: 22px;
+    color: chocolate;
+}
+
+.text {
+    color: darkblue;
+}   
