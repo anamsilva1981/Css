@@ -1,0 +1,18 @@
+/*Altera a cor da tela*/
+body{
+    background-color:slategrey;
+    color: midnightblue;
+}
+h1{
+    color: orangered; /*Cor do texto*/
+    text-align: center; /*Alinhar o texto ao centro*/
+    font-size: 35px; /*Tamanho da fonte*/
+}
+
+p{
+    text-align: justify; /*Alinhamento justificado do texto*/
+}
+a{
+    color: orchid; /*Cor do link*/
+    text-decoration: none; /*Remove o sublinhado do link*/
+}
