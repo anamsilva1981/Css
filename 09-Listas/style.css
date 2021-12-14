@@ -1,0 +1,19 @@
+body{
+    background-color: grey;
+}
+
+h1{
+    text-align: center;
+    color: orange;
+}
+
+ul{
+    background-color: rgb(39, 61, 61);
+    padding: 20px;
+}
+
+ul li{
+    background-color: papayawhip;
+    margin: 5px 0; /*Margem entre as palavras*/
+    color: red;
+}
