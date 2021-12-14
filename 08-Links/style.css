@@ -1,0 +1,29 @@
+body{
+    background-color: paleturquoise;
+    color: teal;
+}
+
+h1{
+    text-align: center; /*Alinhamento central*/
+}
+
+a{ /*Altera todos os links*/
+    font-size: 20px; /*Altera o tamanho de todos os links*/
+}
+
+a:link{ /*Link não visitado */
+    text-decoration: none; /*Sem sublinhado no texto*/
+    color: tomato;
+}
+
+a:visited{ /*Link visitado pelo cliente*/
+    color: yellow;
+}
+
+a:hover{ /* Passou o mouse no link*/
+    color: violet;
+}
+
+a:active{ /*Link ativo*/
+    color: forestgreen;
+}
