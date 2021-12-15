@@ -1,0 +1,20 @@
+body{
+    background-color: thistle;
+}
+
+header{
+
+    width: 50%; /*Espaço que sera ocupado*/
+    height: 50%;
+    background-color: tomato;
+    /* max-width: 100px; Utilizado para definir largura maxima de um elemento*/
+    /* min-width: 20px; Define a largura minima de um elementa*/
+    /* max-height: 20px; Define a altura maxima de um elemento */
+    /* min-height: 20px; Define a altura minima de um elemento */
+}
+
+nav{
+    background-color: rgb(71, 99, 255);
+    max-height: 200px;
+    max-width: 200px;
+}
