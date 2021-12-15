@@ -1,0 +1,42 @@
+
+.pontilhada{
+    border-style: dotted; /*Borda pontilhada*/
+}
+
+.tracejada{
+    border-style: dashed; /* Borda tracejada*/
+}
+
+.solida {
+    border-style: solid; /*Borda Sólida*/
+}
+
+.dupla{
+    border-style: double; /*Borda Dupla*/
+}
+
+.ranhura{
+    border-style: groove; /*Borda Ranhura*/
+}
+
+.cume{
+    border-style: ridge; /*Borda Cume*/
+}
+
+.insercao{
+    border-style: inset; /*Borda Inserção*/
+}
+
+.inicio{
+    border-style: outset; /*Borda inicio*/
+}
+
+.none{
+    border-style: none; /*Borda none*/
+}
+
+.oculta{
+    border-style: hidden; /*Borda Oculta*/
+}
+
+
