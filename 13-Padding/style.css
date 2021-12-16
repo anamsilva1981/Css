@@ -1,0 +1,33 @@
+body{
+    background-color: gray;
+    color: black;
+}
+
+header{
+    background-color: cornflowerblue;
+    color: crimson;
+    width: 100%; /*Tamanho*/
+    height: 120px; /*Largura*/
+    padding-top: 40px; /*Conteudo irá iniciar a partir de 40Px*/
+    padding-right: 50px;
+    padding-left: 50px;
+
+}
+
+nav{
+    background-color: cyan;
+    padding: 50px;
+}
+
+article{
+    background-color: rgb(66, 8, 8);
+    color: black;
+    padding: 35px 18px;
+}
+
+footer{
+    background-color: darkgreen;
+    color: rgb(252, 255, 248);
+    padding: 50px;
+    text-align: center;
+}
