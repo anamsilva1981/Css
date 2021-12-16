@@ -40,3 +40,38 @@
 }
 
 
+.largura_border{
+    border-width: 10px;
+    border-style: solid;
+    border-color: yellow;
+}
+
+.bordas_diferente{
+    border-width: 10px; /*Largura da borda*/
+    border-style: solid; /*Estilo da borda, neste caso solida*/
+    border-color: red blue yellow greenyellow;
+
+}
+
+.bordas_diferente_pers{
+    background-color: yellow;
+    border-top: 15px solid green; /*Topo*/
+    border-right: 5px dashed blue;/*Lateral direita*/
+    border-bottom: 15px double black;
+    border-left: 6px solid red; /*lado esquerdo*/
+}
+
+.bordas_arre{
+    border: 2px solid pink;
+    border-radius: 100px;
+    width: 100px;
+    height: 100px;
+}
+
+.circulo{
+    border: 5px solid pink;
+    border-radius: 100px;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+}
