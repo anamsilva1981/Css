@@ -1,0 +1,29 @@
+body{
+    background-color: purple;
+    color: rgb(8, 8, 7);
+}
+
+header{
+    background-color: yellow;
+    margin: 80px;/*Margem topo*/
+    margin-right: 110px;/*Margem lateral direita*/
+    margin-bottom: 70px;/*Margem inferior*/
+    margin-left: 100px;/*Lateral esquerda*/
+}
+
+nav{
+    background-color: green;
+    margin: 65px 55px 75px 105px;
+}
+
+section{
+    background-color: grey;
+    margin: 15px 30px 15px 30px ;
+    font-size: 45px;
+}
+
+footer{
+    
+    background-color: indianred;
+    margin: 115px;
+}
