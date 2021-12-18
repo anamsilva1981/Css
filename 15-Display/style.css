@@ -1,0 +1,22 @@
+body{
+    background-color: blanchedalmond;
+    color: blue;
+}
+
+/*Oculta o texto removendo a linha*/
+.texto_dois{
+    display: none;
+}
+/*Oculta o texto pulando a linha*/
+.texto_quatro{
+    visibility: hidden;
+}
+/*Faz com que o texto apareça sempre*/
+.texto_seis{
+    display: block;
+}
+
+/*Coloca o texto em linha*/
+li{
+    display: inline;
+}
